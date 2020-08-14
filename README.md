@@ -1,4 +1,6 @@
 # substring
+# stdio.h
+# string.h
 int main ()
 {
   char string[50] ="my_name_is_edcast_future_skills";
